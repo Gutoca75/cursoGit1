@@ -2,3 +2,4 @@ Testando atualização do clone 2 reposição
 com git log
 unindo as branches
 ENVIANDO A FUNCIONALIDADE X
+enviando funcionalidade b
