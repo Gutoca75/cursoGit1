@@ -4,3 +4,5 @@ para local
 unindo as branches
 NOVOS CODIGOS E NOVAS FUNCIONALIDADES
 NOVA FUNCÃO NO BRANCH A.TX
+Nova funcionalidade a.txt
+
