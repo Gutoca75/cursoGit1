@@ -2,3 +2,4 @@ Atualizando
 do remoto 
 para local
 unindo as branches
+NOVOS CODIGOS E NOVAS FUNCIONALIDADES
