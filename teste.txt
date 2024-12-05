@@ -4,4 +4,5 @@ testando branches
 Unindo branches testando pra ver se da
 Utilizando o git stash de novo
 Testando tag
+testando reset 
 
